@@ -5,7 +5,7 @@ This is iOS game, you can find it on the App Store: https://itunes.apple.com/us/
 
 The game is written using C++ with OpenGL 2.
 
-Complete source code is available at: https://github.com/vbodurov/frog-fu-game
+Complete source code is available at: https://github.com/YouVisio/frog-fu-youvisio
 
 Please like our Facebook page: https://www.facebook.com/YouVisio
 
