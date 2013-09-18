@@ -11,4 +11,4 @@ Please like our Facebook page: https://www.facebook.com/YouVisio
 
 Subscribe to Twitter: https://twitter.com/YouVisio
 
-Visit my blog: http://blog.bodurov.com/Frog-Fu-Open-Source-iOS-Game/
+Visit my blog: http://blog.bodurov.com/Frog-Fu-Open-Source-iOS-Game/ 
